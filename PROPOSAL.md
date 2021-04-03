@@ -1,27 +1,30 @@
 ### Tool name
 
-_Name of tool here_
+NLTK Tutorial 
 
 ### URL (tutorial)
 
-_provide the URL for your webpage.  This should be "live" (i.e., publicly accessible), though the page doesn't need to have any content related to the tutorial prior to your proposal being accepted._
+https://dpstyner.github.io/Technical-Tutorial/
 
 ### URL (tool)
 
-_URL of tool here_
+https://radimrehurek.com/gensim/
 
 ### License
 
-_License name and link if available_
+Gensim is licensed under the OSI-approved GNU LGPLv2.1 license. This means that it’s free for both personal and commercial use, but if you make any modification to Gensim that you distribute to other people, you have to disclose the source code of these modifications.
+
+License Link:
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 
 ### Usage
 
-_Describe the problems the tool aims to solve_
+Genism specializes in Topic Modeling of Large-Scale Text Data. 
 
 ### Natural languages supported
 
-_List or describe the kinds of natural languages supported by the tool_
+There is a language parameter that could be used to run the algorithms 
 
 ### Proposal
 
-_Describe the form your tutorial will take (nature of data, domain, etc.)_
+This tutorial will focus on extracting topics from reviews on Turkopticon (i.e., mTurk Review platform) and creating new features for various machine learning classification algorithms. 
