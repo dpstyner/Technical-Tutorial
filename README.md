@@ -40,6 +40,7 @@ https://github.com/dpstyner/Technical-Tutorial
 # Use case
 By step 9, you should be able to construct bigrams and trigrams.
 One way to represent bigram and word relations are to create a simple bigram network (See the example below).
+
 ![image](https://user-images.githubusercontent.com/48960071/117061012-850afa00-acd6-11eb-8a7d-9f3409e030b7.png)
 
 The above image was created using a full dataset with more than 400,000 records with R Statistical software using igraph package. 
