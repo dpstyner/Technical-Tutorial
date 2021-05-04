@@ -34,7 +34,7 @@ This tutorial will mainly focus on demonstrating the use case and application.
 IMPORTANT: NOTE THAT THE PREPROCESSING TAKES THE LONGEST
 
 # Available dataset
-Use the export_1000_samp.csv data from the below website to test to proceed through the Data Preprocessing and Execution step:
+Use the fordemo.csv data from the below website to test to proceed through the Data Preprocessing and Execution step:
 https://github.com/dpstyner/Technical-Tutorial
 
 # Use case
