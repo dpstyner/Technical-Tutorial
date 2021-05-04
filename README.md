@@ -31,6 +31,10 @@ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
 This tutorial will mainly focus on demonstrating the use case and application.
 
-# Use case
-Use the export_1000_samp.csv data to proceed through Data Preprocessing and Execution steps from the above website. 
+# Available dataset
+Use the export_1000_samp.csv data from the below website to test to proceed through the Data Preprocessing and Execution step:
+https://github.com/dpstyner/Technical-Tutorial
+
+
+![image](https://user-images.githubusercontent.com/48960071/117061012-850afa00-acd6-11eb-8a7d-9f3409e030b7.png)
 
