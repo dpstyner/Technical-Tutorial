@@ -1,6 +1,6 @@
 ### Tool name
 
-NLTK Tutorial 
+Genism Tutorial (Use Case)
 
 ### URL (tutorial)
 
