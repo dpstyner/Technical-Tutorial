@@ -13,8 +13,6 @@ Plus, it is widely used and is compatible with other popular libraries such as N
 
 Note that the Text data is very large! Espeically if you are breaking down sentences in to separate tokens. 
 
-# Why not just 
-
 # Installation
 Genism is an open source tool and can be directly forked from the:
 https://github.com/RaRe-Technologies/gensim
@@ -27,5 +25,12 @@ Please install the latest version of genism by running the following command in 
 pip install --upgrade genism
 
 
-# Data Preprocessing
+# Data Preprocessing and Execution 
+There are other excellent tutorials that shows all the steps and code to preprocess and perform LDA topic modeling:
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
+This tutorial will mainly focus on demonstrating the use case and application.
+
+# Use case
+Use the export_1000_samp.csv data to proceed through Data Preprocessing and Execution steps from the above website. 
 
