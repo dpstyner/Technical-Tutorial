@@ -31,10 +31,21 @@ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
 This tutorial will mainly focus on demonstrating the use case and application.
 
+IMPORTANT: NOTE THAT THE PREPROCESSING TAKES THE LONGEST TIME
+
 # Available dataset
 Use the export_1000_samp.csv data from the below website to test to proceed through the Data Preprocessing and Execution step:
 https://github.com/dpstyner/Technical-Tutorial
 
-
+# Use case
+By step 9, you should be able to construct bigrams and trigrams.
+One way to represent bigram and word relations are to create a simple bigram network (See the example below).
 ![image](https://user-images.githubusercontent.com/48960071/117061012-850afa00-acd6-11eb-8a7d-9f3409e030b7.png)
+
+The above image was created using a full dataset with more than 400,000 records with R Statistical software using igraph package. 
+
+As you can see, this is quiet promising :) It looks like the user reviews are converging into a fewer set of topics!
+Proceed through stop 10, step 11 to create dictionary and corpus. 
+
+Then, see how far you can get! Please leave any commment or contact me @dpstyner on Github for any questions.
 
