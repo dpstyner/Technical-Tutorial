@@ -37,6 +37,14 @@ IMPORTANT: NOTE THAT THE PREPROCESSING TAKES THE LONGEST
 Use the fordemo.csv data from the below website to test to proceed through the Data Preprocessing and Execution step:
 https://github.com/dpstyner/Technical-Tutorial
 
+# Code example
+https://github.com/dpstyner/Technical-Tutorial site includes "ldaexample.ipynb" that tested the steps from:
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
+Note that Step #13 generates the output of key words for the 10 identified topics. 
+
+
+
 # Use case
 By step 9, you should be able to construct bigrams and trigrams.
 One way to represent bigram and word relations are to create a simple bigram network (See the example below).
@@ -50,3 +58,6 @@ Proceed through stop 10, step 11 to create dictionary and corpus.
 
 Then, see how far you can get! Please leave any commment or contact me @dpstyner on Github for any questions.
 
+All the credit goes to:
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+https://github.com/RaRe-Technologies/gensim
